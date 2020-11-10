@@ -5,7 +5,7 @@ A simple chat based on gRPC framework.
 
 
 Language: C++.
-jitpaul/gRPC_chat
+
 API: protocol buffer.
 
 
