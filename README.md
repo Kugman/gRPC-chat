@@ -4,9 +4,13 @@
 A simple chat based on gRPC framework.
 
 
+
 Language: C++.
 
 API: protocol buffer.
+
+
+INSTRUCTIONS:
 
 
 1. BUILD PROJECT:
