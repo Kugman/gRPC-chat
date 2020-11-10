@@ -1,0 +1,7 @@
+/home/admin/grpc/examples/my_chat/helloworld/cmake/build/CMakeFiles/rebuild_cache.dir
+/home/admin/grpc/examples/my_chat/helloworld/cmake/build/CMakeFiles/edit_cache.dir
+/home/admin/grpc/examples/my_chat/helloworld/cmake/build/CMakeFiles/greeter_async_client2.dir
+/home/admin/grpc/examples/my_chat/helloworld/cmake/build/CMakeFiles/greeter_async_server.dir
+/home/admin/grpc/examples/my_chat/helloworld/cmake/build/CMakeFiles/greeter_async_client.dir
+/home/admin/grpc/examples/my_chat/helloworld/cmake/build/CMakeFiles/greeter_server.dir
+/home/admin/grpc/examples/my_chat/helloworld/cmake/build/CMakeFiles/greeter_client.dir
